@@ -203,3 +203,5 @@ Combine tracking does not tell us everything, but where it speaks it speaks clea
 ### Appendix: Reproducibility
 
 Every number and figure in this writeup is rebuilt from the raw competition data by the public notebook **[Explosiveness Transfers, Smoothness Misleads](https://www.kaggle.com/code/simphiwetwala/explosiveness-transfers-smoothness-misleads)** (about 20 minutes on a Kaggle CPU session). It includes unit tests for the movement metrics, the 200-permutation model run, the transfer test and the figures.
+
+The full source code, tests and documentation are on GitHub: **[Piwe/movement-efficiency-index](https://github.com/Piwe/movement-efficiency-index)**.
