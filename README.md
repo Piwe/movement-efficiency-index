@@ -17,6 +17,7 @@ The writeup is `writeup.md`; its figures are in `figures/` and its thumbnail is 
 | `notebooks/build_notebook.py` | Builds the Kaggle notebook from `src/` |
 | `kaggle_kernel/` | Notebook + metadata for `kaggle kernels push` |
 | `docs/` | Data audit, feature, outcome and model notes |
+| `assets/writeup_pdf.py` | `writeup.pdf` from `writeup.md` with embedded figures: `.venv/bin/python -P assets/writeup_pdf.py` |
 | `assets/story_images.py`, `assets/thumbnail.py` | Story sequence (`screenshots/`) and `thumbnail.png`: `python3 assets/story_images.py screenshots` |
 
 ## Reproduce
